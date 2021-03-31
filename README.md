@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin
 - 👀 I’m interested in Machine Learning, Robotics, Self-Driving, etc
 - 🌱 I’m working as an intern at Intel on large open source projects
-- 💞️ I’m going to School of Computer Science at Carnegie Mellon University 
+- ✨ Feel free to check out my personal github [here](https://github.com/Geniussh)
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/kelvinsh/)
 
 <!---
